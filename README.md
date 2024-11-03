@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMPURVI&&show_icons=true&theme=midnight-purple" alt="purvimusic"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMPURVI&&show_icons=true&theme=midnight-purple" alt="TEAMPURVI"/></p>        
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAMPURVI&layout=compact&theme=tokyonight" align="center">
