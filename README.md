@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-![<b>𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b>](https://t.me/PURVI_SUPPORT")
+<b>![𝐏ᴜʀᴠɪ 𝐁ᴏᴛs](https://t.me/PURVI_SUPPORT")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
