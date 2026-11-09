@@ -1,19 +1,22 @@
-👋 ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ!
+<h1>👋 ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ!</h1>
 
-🚀 ɪ'ᴠᴇ ᴍᴏᴠᴇᴅ ᴛᴏ ᴀ ɴᴇᴡ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ!
+<p>🚀 ɪ'ᴠᴇ ᴍᴏᴠᴇᴅ ᴛᴏ ᴀ ɴᴇᴡ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ!</p>
 
-ᴍʏ ɴᴇᴡ ɢɪᴛʜᴜʙ ᴜsᴇʀɴᴀᴍᴇ ɪs "@ɪᴍ-ɴᴏᴛᴄᴏᴅᴇʀ" (https://github.com/Im-NotCoder).
+<p>
+  ᴍʏ ɴᴇᴡ ɢɪᴛʜᴜʙ ᴜsᴇʀɴᴀᴍᴇ ɪs
+  <a href="https://github.com/Im-NotCoder"><b>@ɪᴍ-ɴᴏᴛᴄᴏᴅᴇʀ</b></a>.
+</p>
 
-ᴀʟʟ ᴍʏ ᴜᴘᴄᴏᴍɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴜᴘᴅᴀᴛᴇs & ᴄᴏᴅᴇs ᴡɪʟʟ ʙᴇ sʜᴀʀᴇᴅ ᴏɴ ᴛʜɪs ᴀᴄᴄᴏᴜɴᴛ.
+<p>ᴀʟʟ ᴍʏ ᴜᴘᴄᴏᴍɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴜᴘᴅᴀᴛᴇs & ᴄᴏᴅᴇs ᴡɪʟʟ ʙᴇ sʜᴀʀᴇᴅ ᴏɴ ᴛʜɪs ᴀᴄᴄᴏᴜɴᴛ.</p>
 
-ɪғ ʏᴏᴜ ᴡᴇʀᴇ ғᴏʟʟᴏᴡɪɴɢ ᴍʏ ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ, ᴘʟᴇᴀsᴇ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ʜᴇʀᴇ!
+<p>ɪғ ʏᴏᴜ ᴡᴇʀᴇ ғᴏʟʟᴏᴡɪɴɢ ᴍʏ ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ, ᴘʟᴇᴀsᴇ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ʜᴇʀᴇ!</p>
 
-⭐ ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ!
+<p>⭐ ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ!</p>
 
-— ʀᴀᴜsʜᴀɴ
+<p>— ʀᴀᴜsʜᴀɴ</p>
 
 <p align="center">
   <a href="https://github.com/Im-NotCoder">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
